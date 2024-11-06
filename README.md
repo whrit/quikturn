@@ -1,4 +1,4 @@
-# Quikturn
+# Quikturn - Logo Management Platform
 
 Quikturn is a logo management platform that stores and organizes company logos. It provides a RESTful API for managing company information and logos, with integration to an external logo scraper service.
 
